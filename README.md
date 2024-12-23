@@ -1,1 +1,2 @@
 # AI_Web_App
+This is a simple AI-powered web application that analyzes the sentiment of text input (e.g., positive, negative, or neutral). Built using Python, Gradio, and the Hugging Face Transformers library, the app provides sentiment classification with a confidence score. Users can input sentences or short paragraphs, and the app will return the sentiment along with the model's confidence in its prediction.
